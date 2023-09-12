@@ -1,2 +1,2 @@
-# html-portfolio
+# demo-html-portfolio
 trying out web hosting
